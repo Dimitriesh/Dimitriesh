@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dimi3
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R, python and Statistics
-- 💞️ I’m looking to collaborate on a statistical anaylsis project of any type
+- 💞️ I’m looking to collaborate on a statistical anaylsis project of any kind
 - 📫 How to reach me njoyodimitri@gmail.com is my email
 
 <!---
