@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dimitriesh
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web app development
+- 👋 Hi, I’m Dimi3
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning R, python and Statistics
+- 💞️ I’m looking to collaborate on a statistical anaylsis project of any type
 - 📫 How to reach me njoyodimitri@gmail.com is my email
 
 <!---
